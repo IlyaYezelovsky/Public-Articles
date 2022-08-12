@@ -1,0 +1,34 @@
+{
+	"Version": "1.12.2",
+	"ModLoader": [
+		"Forge",
+		"LiteLoader"
+		],
+	"Mods": {
+		"Minecraft": "minecraft",
+		"Minecraft Forge": "forge",
+		"Base": "base",
+		"Better Than Mending": "betterthanmending",
+		"Bloodmoon": "bloodmoon",
+		"Clumps": "clumps",
+		"Color Utility": "colorutility",
+		"Communism": "communism",
+		"Controlling": "controlling",
+		"Disenchantment Edit Table": "disenchantment",
+		"Durability Viewer": "durabilityviewer",
+		"Easier Villager Trading": "easiervillagertrading",
+		"Elevator Mod": "elevator",
+		"Fence Jumper": "fencejumper",
+		"Forge Auto Fish": "forgeautofish",
+		"Mr. CrayFish's Furniture Mod": "furniture",
+		"Global Game Rules": "globalgamerules",
+		"Gravestone Mod": "gravestone",
+		"Hwyla": "hwyla",
+		"I18N Update Mod": "i18nupdate",
+		"Improved Villagers": false,
+		"Infinity Item Editor": "infinity",
+		"Instant Lava": false,
+		"InvMove": "invmove",
+		"Just Enough Characters": "jei"
+	}
+}
